@@ -1,0 +1,46 @@
+{
+    "arr": [
+        { "img": "xiang1.png" },
+        { "img": "xiang2.png" },
+        { "img": "xiang3.png" },
+        { "img": "xiang4.png" },
+        { "img": "xiang5.png" },
+        { "img": "xiang6.png" },
+        { "img": "xiang7.png" },
+        { "img": "xiang8.png" },
+        { "img": "xiang9.png" },
+        { "img": "xiang10.png" },
+        { "img": "xiang11.png" },
+        { "img": "xiang12.png" },
+        { "img": "xiang13.png" },
+        { "img": "xiang14.png" },
+        { "img": "xiang15.png" },
+        { "img": "xiang16.png" },
+        { "img": "xiang17.png" },
+        { "img": "xiang18.png" },
+        { "img": "xiang19.png" },
+        { "img": "xiang20.png" },
+        { "img": "xiang21.png" },
+        { "img": "xiang22.png" },
+        { "img": "xiang23.png" },
+        { "img": "xiang24.png" }
+    ],
+    "arr2": [
+        { "images": "miao1.jpg", "title": "用于儿童和成人甲型和乙型流感治疗", "price": "￥48.00", "small": "￥59.00" },
+        { "images": "miao2.jpg", "title": "外科口罩 限时优惠", "price": "￥129.00", "small": "" },
+        { "images": "miao3.jpg", "title": "防水透气止血护创", "price": "￥8.80", "small": "￥15.00" }
+
+    ],
+    "arr3": [{ "images": "miao4.jpg", "title": "双天然", "price": "￥538.00", "small": "￥999.00" },
+        { "images": "miao5.jpg", "title": "降糖药", "price": "￥28.50", "small": "￥35.00" },
+        { "images": "miao6.jpg", "title": "淡化疤痕 美国进口", "price": "￥256.00", "small": "" }
+    ],
+    "arr4": [{ "images": "miao7.jpg", "title": "急慢性咽炎/气管炎", "price": "￥12.00", "small": "" },
+        { "images": "miao8.jpg", "title": "健脾消食", "price": "￥29.90", "small": "￥46.00" },
+        { "images": "miao9.jpg", "title": "海俪恩隐形眼镜", "price": "￥19.90", "small": "￥22.00" }
+    ],
+    "arr5": [{ "images": "miao10.jpg", "title": "阳痿持久增硬ED", "price": "￥239.00", "small": "" },
+        { "images": "miao11.jpg", "title": "复方板蓝根颗粒", "price": "￥19.80", "small": "" },
+        { "images": "miao12.jpg", "title": "消毒片 优惠价", "price": "￥9.90", "small": "" }
+    ]
+}

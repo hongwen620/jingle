@@ -1,0 +1,46 @@
+{
+    "arr": [
+        { "img": "man1.jpg" },
+        { "img": "man2.jpg" },
+        { "img": "man3.jpg" },
+        { "img": "man4.jpg" }
+    ],
+    "arr1": [
+
+        { "title": "肝胆" },
+        { "title": "高血压" },
+        { "title": "高血脂" },
+        { "title": "冠心病" },
+        { "title": "高血糖" },
+        { "title": "哮喘" },
+        { "title": "痛风" },
+        { "title": "泌尿用药" },
+        { "title": "神经用药" },
+        { "title": "妇科用药" },
+        { "title": "骨质疏松" },
+        { "title": "消化系统" },
+        { "title": "脱发" }
+
+    ],
+    "arr2": [
+        { "id": "1", "img": "man6.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "【2盒装】", "middle": "[必利劲]盐酸达泊西汀片", "sm": "用于治疗性功能障碍，早泄", "ed": "30mgx3片x2盒", "price": "￥326.00", "logo": "超值换购", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "mana2.jpg", "pr": "￥198.00" },
+        { "id": "2", "img": "man7.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "【2盒装】", "middle": "[金戈]枸橼酸西地那非片", "sm": "用于治疗勃起功能障碍", "ed": "50mgx5片x2盒", "price": "￥256.00", "logo": "超值换购", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "man7.jpg", "pr": "￥198.00" },
+        { "id": "3", "img": "man8.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "【5盒装】", "middle": "[和田维吾尔]伊木萨克片", "sm": "补肾壮阳，益精固涩", "ed": "0.5gx6片x1板x5盒", "price": "￥540.00", "logo": "超值换购", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "man8.jpg", "pr": "￥198.00" },
+        { "id": "4", "img": "man9.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "【5盒装】", "middle": "[施强]复方玄驹胶囊", "sm": "温肾、壮阳、益精。用于肾阳虚型，症见神疲乏力，精神不振，腰膝酸软，少腹阴器发凉", "ed": "0.42gx54粒x5盒", "price": "￥700.00", "logo": "超值换购", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "man9.jpg", "pr": "￥198.00" },
+        { "id": "5", "img": "man10.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "", "middle": "[万艾可]枸橼酸西地那非片", "sm": "西地那非适用于治疗勃起功能障碍", "ed": "0.1gx5片", "price": "￥368.00", "priced": "￥418.00", "logo": "超值换购", "logoa": "直降限6件", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "man10.jpg", "pr": "￥198.00" },
+        { "id": "6", "img": "man11.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "", "middle": "[金戈]枸橼酸西地那非片", "sm": "西地那非适用于治疗勃起功能障碍", "ed": "25mgx7片x3板", "price": "￥257.00", "logo": "超值换购", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "man11.jpg", "pr": "￥198.00" },
+        { "id": "7", "img": "man12.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "", "middle": "[广誉远]龟龄集", "sm": "强身补脑，固肾补气，增进食欲。用于肾亏阳弱，记忆减退，夜梦精溢，腰酸腿软，气虚咳", "ed": "0.3gx30粒", "price": "￥425.00", "priced": "￥465.00", "logo": "超值换购", "logoa": "直降", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "mana2.jpg", "pr": "￥198.00" },
+        { "id": "8", "img": "man13.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "", "middle": "[昆仑山]罗补甫克比日丸", "sm": "温补脑肾，益心填精，用于阳痿、抑郁、滑精、早泄、体虚、消瘦、神经衰弱", "ed": "0.3gx40粒x2板", "price": "￥98.00", "logo": "超值换购", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "mana2.jpg", "pr": "￥198.00" },
+        { "id": "9", "img": "man14.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "", "middle": "[万菲乐]枸橼酸西地那非片", "sm": "西地那非适用于治疗勃起功能", "ed": "0.1gx2片", "price": "￥119.00", "priced": "￥169.00", "logo": "超值换购", "logoa": "直降", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "mana2.jpg", "pr": "￥198.00" },
+        { "id": "10", "img": "man15.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "", "middle": "[金戈]枸橼酸西地那非片", "sm": "西地那非适用于治疗勃起功能障碍", "ed": "50mgx5片", "price": "￥108.00", "priced": "￥138.00", "logo": "超值换购", "logoa": "直降", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "mana2.jpg", "pr": "￥198.00" },
+        { "id": "11", "img": "man16.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "", "middle": "[希爱力]他达拉非片", "sm": "治疗勃起功能障碍", "ed": "5mgx28片", "price": "￥750.00", "logo": "超值换购", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "mana2.jpg", "pr": "￥198.00" },
+        { "id": "12", "img": "man17.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "", "middle": "[和田维吾尔]伊木萨克片", "sm": "（运动员慎用）补肾壮阳，益精固涩", "ed": "0.5gx6片x1板", "price": "￥108.00", "priced": "￥118.00", "logo": "超值换购", "logoa": "直降", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "mana2.jpg", "pr": "￥198.00" },
+        { "id": "13", "img": "man18.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "", "middle": "[仁和]参鹿补片", "sm": "益气补血，补肾。用于肾阳虚衰，气血不足，畏寒肢冷，精神疲乏，腰膝酸软，头晕耳鸣", "ed": "0.31gx12片x16板", "price": "￥298.00", "logo": "超值换购", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "mana2.jpg", "pr": "￥198.00" },
+        { "id": "14", "img": "man19.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "", "middle": "[施强]复方玄驹胶囊", "sm": "温肾、壮阳、益精。用于肾阳虚型，症见神疲乏力，精神不振，腰膝酸软，少腹阴器发凉", "ed": "0.42gx54粒", "price": "￥125.00", "priced": "￥138.00", "logo": "超值换购", "logoa": "直降", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "mana2.jpg", "pr": "￥198.00" },
+        { "id": "15", "img": "man20.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "", "middle": "[孚必克]前列回春胶囊", "sm": "益肾回春，活血通林，清热解毒。用于慢性前列腺炎以及由前列腺炎引起的尿频、尿急", "ed": "0.3gx15粒x2板", "price": "￥21.00", "priced": "￥23.00", "logo": "超值换购", "logoa": "直降", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "mana2.jpg", "pr": "￥198.00" },
+        { "id": "16", "img": "man21.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "", "middle": "[步长]前列舒通胶囊", "sm": "清热利湿，化瘀散结", "ed": "0.4gx18粒x2板", "price": "￥45.00", "priced": "￥52.00", "logo": "超值换购", "logoa": "直降", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "mana2.jpg", "pr": "￥198.00" },
+        { "id": "17", "img": "man22.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "】", "middle": "[希爱力]他达拉非片", "sm": "治疗勃起功能障碍", "ed": "20mgx8片", "price": "￥725.00", "priced": "￥730.00", "logo": "超值换购", "logoa": "直降", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "mana2.jpg", "pr": "￥198.00" },
+        { "id": "18", "img": "man23.jpg", "smalltitle": "2-4天达", "title": "Rx", "name": "【2盒装】", "middle": "[必利劲]盐酸达泊西汀片", "sm": "用于治疗性功能障碍，早泄", "ed": "30mgx3片x2盒", "price": "￥326.00", "logo": "超值换购", "guige": "【2盒装】必利劲", "yongtu": "用于18至64岁男性早泄(PE)患者", "smallimg": "mana2.jpg", "pr": "￥198.00" }
+    ]
+
+}

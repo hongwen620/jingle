@@ -1,0 +1,6 @@
+const MOCK = require("mockjs")
+MOCK.mock("/homedata", "get", require("./data/homedata.json"))
+MOCK.mock("/manbingdata", "get", require("./data/manbing.json"))
+MOCK.mock("/manadata", "get", require("./data/manadata.json"))
+MOCK.mock("/listdata", "get", require("./data/listdata.json"))
+MOCK.mock("/medata", "get", require("./data/medata.json"))
